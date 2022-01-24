@@ -1,0 +1,74 @@
+body{
+  background-color: black;
+  color:white;
+  margin: 0px;
+}
+h2{
+  text-align: center;
+  font-size: 25px;
+}
+h5{
+  text-align: center;
+  font-size: 20px;
+  color: teal;
+}
+.links{
+  display: flex;
+  justify-content: center;
+}
+a{
+  color: crimson;
+  font-size: 26px;
+  margin: 10px;
+  text-decoration: none;
+}
+a:hover{
+  color:turquoise
+
+}
+.Fjalia{
+  display: flex;
+  justify-content: center;
+}
+.buttoni{
+  display: flex;
+  margin-left: 45%;
+}
+button{
+  display: block;
+  margin:auto;
+  background-color: tomato;
+  font-size: 15px;
+  border: 0px;
+  padding: 2px;
+  
+
+}
+button:hover{
+  background-color: white;
+   
+}
+.person-list{
+  border: 2px solid white;
+  text-align: center;
+  width: 50%;
+  margin:10px auto;
+  padding: 10px;
+
+}
+.MySimple{
+  text-align: left;
+  color:chocolate;
+  font-size: 28px;
+}
+.Loading{
+  color: green;
+  font-size: 20px;
+  text-align: center;
+}
+.Error{
+  color: red;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 15%;
+}

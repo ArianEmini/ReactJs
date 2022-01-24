@@ -1,0 +1,27 @@
+{ "personat":
+[
+    
+    {
+    "id":1,
+    "emri":"Arian",
+    "Mbiemri":"Emini",
+    "adressa":"Podujeve"
+    },
+    {
+        "id":2,
+        "emri":"Agron",
+        "Mbiemri":"gashi",
+        "adressa":"Podujeve"
+        },
+        {"id":3,
+            "emri":"Besmir",
+            "Mbiemri":"berisha",
+            "adressa":"gjilan"
+            },
+            {"id":4,
+                "emri":"Kastriot",
+                "Mbiemri":"hyseni",
+                "adressa":"vushtrri"
+                }
+    ]
+}
